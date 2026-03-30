@@ -1,0 +1,84 @@
+{
+  "about": "Hey there! I'm Sunny, and this is my little corner of the internet where I document my machine learning journey.\nI'm learning everything from the fundamentals of linear algebra and calculus to building neural networks and training models.\nThis journal is my way of keeping track of what I learn, what confuses me, and what excites me along the way. It's informal, honest, and hopefully helpful to anyone on a similar path!",
+  "contact": [
+    {
+      "type": "email",
+      "label": "sunny@example.com",
+      "url": "mailto:sunny@example.com"
+    },
+    {
+      "type": "github",
+      "label": "GitHub",
+      "url": "https://github.com/sunny"
+    }
+  ],
+  "objectives": [
+    {
+      "type": "objective",
+      "text": "Understand backpropagation intuitively and be able to implement it from scratch."
+    },
+    {
+      "type": "objective",
+      "text": "Complete a full end-to-end ML project: data collection, preprocessing, training, evaluation, and deployment."
+    },
+    {
+      "type": "question",
+      "text": "Why does batch normalization help training converge faster? What's really going on under the hood?"
+    },
+    {
+      "type": "question",
+      "text": "When should I use a CNN vs. a Transformer for image tasks?"
+    },
+    {
+      "type": "objective",
+      "text": "Get comfortable reading and reimplementing ML papers."
+    }
+  ],
+  "resources": [
+    {
+      "category": "Courses",
+      "items": [
+        {
+          "name": "Andrew Ng's Machine Learning Specialization",
+          "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+          "description": "The classic ML course, updated for 2024. Great starting point."
+        },
+        {
+          "name": "fast.ai Practical Deep Learning",
+          "url": "https://course.fast.ai/",
+          "description": "Top-down approach to deep learning. Very hands-on."
+        }
+      ]
+    },
+    {
+      "category": "Books",
+      "items": [
+        {
+          "name": "Hands-On Machine Learning (Aurelien Geron)",
+          "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/",
+          "description": "Practical guide with scikit-learn, Keras, and TensorFlow."
+        },
+        {
+          "name": "Deep Learning (Goodfellow, Bengio, Courville)",
+          "url": "https://www.deeplearningbook.org/",
+          "description": "The deep learning bible. Dense but comprehensive."
+        }
+      ]
+    },
+    {
+      "category": "Tools & Libraries",
+      "items": [
+        {
+          "name": "PyTorch",
+          "url": "https://pytorch.org/",
+          "description": "My go-to framework for building and training models."
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "description": "Pretrained models, datasets, and a great community."
+        }
+      ]
+    }
+  ]
+}
