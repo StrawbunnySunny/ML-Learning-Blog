@@ -1,21 +1,26 @@
 {
-  "about": "Hey there! I'm Sunny, and this is my little corner of the internet where I document my machine learning journey.\nI'm learning everything from the fundamentals of linear algebra and calculus to building neural networks and training models.\nThis journal is my way of keeping track of what I learn, what confuses me, and what excites me along the way. It's informal, honest, and hopefully helpful to anyone on a similar path!",
+  "about": "Hey there! My name is Sunny and I’m a finance and stats student at UofT. \nThis ML blog is just a fun little hobby of mine where I informally document my findings and share my progress in machine learning.\nI don’t have much of a background in statistics nor data science, but I’m very eager to learn more. \nIt's chill, honest, and hopefully helpful to anyone on a similar path!\nSpecial shout out to my brother (CS major) and sister (Data Scientist) who have helped me with my work and given me advice.",
   "contact": [
     {
       "type": "email",
-      "label": "sunny@example.com",
-      "url": "mailto:sunny@example.com"
+      "label": "sunny.ni@mail.utoronto.ca",
+      "url": "sunny.ni@mail.utoronto.ca"
     },
     {
       "type": "github",
       "label": "GitHub",
-      "url": "https://github.com/sunny"
-    }
+      "url": "https://github.com/StrawbunnySunny"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sunny-n-78a6a0372/"
+    },
   ],
   "objectives": [
     {
       "type": "objective",
-      "text": "Understand backpropagation intuitively and be able to implement it from scratch."
+      "text": "Learn the fundamental concepts of ML."
     },
     {
       "type": "objective",
@@ -23,15 +28,23 @@
     },
     {
       "type": "question",
-      "text": "Why does batch normalization help training converge faster? What's really going on under the hood?"
+      "text": "What in the world is a hyperparameter and how to decide which one to use?"
     },
     {
       "type": "question",
-      "text": "When should I use a CNN vs. a Transformer for image tasks?"
+      "text": "If everyone uses the same model for a given problem, then how can they improve their accuracy above the others? Is it mostly feature engineering?"
     },
     {
-      "type": "objective",
-      "text": "Get comfortable reading and reimplementing ML papers."
+      "type": "question",
+      "text": "How do people think of unique features to create? Are there resources to learn more about this?"
+    },
+    {
+      "type": "question",
+      "text": "What is a tree model and how does increasing or decreasing the depth affect the model?"
+    },
+    {
+      "type": "question",
+      "text": "What are the ideal accuracy rates for a model to achieve realistically? Does this vary in different industries or is there a standard rate?"
     }
   ],
   "resources": [
