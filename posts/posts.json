@@ -4,5 +4,11 @@
     "date": "2026-03-30",
     "file": "2026-03-30-welcome.md",
     "summary": "The very first post, introducing myself and why I started this journal and what I hope to get out of it."
+  },
+  {
+    "title": "Kaggle: Titanic",
+    "date": "2026-03-31",
+    "file": "2026-03-31-Kaggle:Titanic.md",
+    "summary": "My first Kaggle Competition and what I learned from it."
   }
 ]
