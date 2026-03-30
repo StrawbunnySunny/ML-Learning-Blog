@@ -7,8 +7,14 @@
   },
   {
     "title": "Kaggle: Titanic",
-    "date": "2026-03-31",
-    "file": "2026-03-31-Kaggle-Titanic.md",
+    "date": "2026-03-30",
+    "file": "2026-03-30-Kaggle-Titanic.md",
     "summary": "My first Kaggle Competition and what I learned from it."
+  },
+  {
+    "title": "Kaggle Process",
+    "date": "2026-03-31",
+    "file": "2026-03-31-Kaggle-Process.md",
+    "summary": "This is my process when I complete Kaggle Competitions so far. As I continue to learn, I will modify and make improvements."
   }
 ]
