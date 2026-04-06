@@ -22,5 +22,11 @@
     "date": "2026-04-03",
     "file": "2026-04-03-Kaggle-Process.md",
     "summary": "I'm still working on refining my Kaggle Process, but based on some research, this seems to be the basic steps that one would take."
+  },
+  {
+   "title": "ML-With-Kylie-Ying",
+    "date": "2026-04-06",
+    "file": "2026-04-06-ML-With-Kylie-Ying.md",
+    "summary": "So I decided to find a ML video on Youtube and I stumbled upon this 4 hour beast of a video. As of now I’m only around 2 hours in, but I’d like to document my new learnings. Kylie went over loss and also went over some basic models, starting with the ones that focus on classification and regression (more basic supervised models).  "
   }
 ]
